@@ -24,8 +24,7 @@ This project is a simple **Flask-based RESTful API** for managing banking operat
 
 
 📝 Notes
+
 DOB format: YYYY-MM-DD
-
 SQLite database will be created as customers.db in the project folder
-
 Admin access is required for certain sensitive operations
